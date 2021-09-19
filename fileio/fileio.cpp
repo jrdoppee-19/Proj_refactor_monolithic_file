@@ -1,11 +1,8 @@
-#include <iostream>
-#include <vector>
-
-
-#include "../includes/fileio.h"
 #include "../includes/constants.h"
+#include "../includes/fileio.h"
 
 using namespace KP;
+
 namespace KP {
 
     //attempt to open file 'filename' and read in all data

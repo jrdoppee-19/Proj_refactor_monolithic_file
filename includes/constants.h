@@ -1,10 +1,12 @@
 #ifndef CONSTANTS_H_
 #define CONSTANTS_H_
 
+#include <string>
+
 namespace KP {
     //default files to read and write data
-    const std::string const SOURCE_FILE 	= "source_file.txt";
-    const std::string const RESULTS_FILE 	= "results_file.txt";
+    const std::string SOURCE_FILE 	= "source_file.txt";
+    const std::string RESULTS_FILE 	= "results_file.txt";
 
     //default return types
     const int 			EMPTY			 				=  0;

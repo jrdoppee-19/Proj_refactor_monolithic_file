@@ -1,6 +1,10 @@
 #ifndef FILEIO_H_
 #define FILEIO_H_
 
+#include <vector>
+
+#include "../includes/constants.h"
+
 namespace KP {
     
     //attempt to open file 'filename' and read in all data

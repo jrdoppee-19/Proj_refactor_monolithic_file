@@ -2,7 +2,6 @@
 #define UTILS_H_
 
 #include <vector>
-#include <string>
 
 #include "constants.h"
 
